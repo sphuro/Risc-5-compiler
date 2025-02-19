@@ -1,0 +1,5 @@
+addi s2,s1,12
+addi s3,s2,100
+add s1,s2,s3
+mul s4,s1,s3
+beq zero,zero,0
